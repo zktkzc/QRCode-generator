@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UEniTcgoDgMs3um2+YiEYylSVkYPtQUl3FwO3cN5z6NMJc3JoaK4qpa45rltie19+5hFgb++Ye8R6ec7Mja6kA==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\C\\C#\\二维码生成器\\二维码生成器\\二维码生成器.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tkzc\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\tkzc\\.nuget\\packages\\qrcoder\\1.4.3\\qrcoder.1.4.3.nupkg.sha512",
+    "C:\\Users\\tkzc\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
